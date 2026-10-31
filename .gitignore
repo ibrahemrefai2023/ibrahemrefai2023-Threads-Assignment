@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/01-InvoiceExport/InvoiceExport/.vs
+/01-InvoiceExport/InvoiceExport/obj
+/01-InvoiceExport/InvoiceExport/bin/Debug/net9.0
+/04-MenuViews/MenuViews/bin/Debug/net9.0
+/04-MenuViews/MenuViews/obj
+/05-ViewsAndEmails/ViewsAndEmails/bin/Debug/net9.0
+/05-ViewsAndEmails/ViewsAndEmails/obj
